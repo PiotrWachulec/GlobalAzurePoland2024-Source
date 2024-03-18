@@ -1,72 +1,71 @@
 ---
-title: "Global Azure 2023 Warsaw Edition"
+title: "Global Azure 2024 Poland"
 date: 2023-04-24T09:42:29+02:00
 draft: false
 ---
 
-{{< paige/image alt="Landscape" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="45rem" loading="eager" process="webp" src="/images/GlobalAzure2023WarsawWhiteEvenea.png" width="100%" >}}
+<!-- {{< paige/image alt="Landscape" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="45rem" loading="eager" process="webp" src="/images/GlobalAzure2023WarsawWhiteEvenea.png" width="100%" >}} -->
+<!-- {{< paige/image alt="Landscape" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="45rem" loading="eager" process="webp" src="/images/GlobalAzurePolandOnline-500x500.png" style="margin-left: auto;margin-right: auto;" >}} -->
 
-Oczywiście nie możemy pominąć Global Azure w 2023 roku! Dlatego też świętujemy razem m. in. w Warszawie! Już w dniach 11. - 13. maja 2023 roku planujemy:
+W ramach tegorocznej edycji Global Azure 2024 Poland, przygotowaliśmy dla Was trzy dni pełne wiedzy, doświadczeń i inspiracji. W dniach 18-20 kwietnia 2024 roku zapraszamy na wydarzenie, które odbędzie się w formie hybrydowej - online i onsite w kilku miastach w Polsce.
 
-- sesje online (11. i 12. maja) - będą nagrane i udostępnione w Internecie,
-- warsztaty onsite 13. maja - Bicep - from zero to hero,
-- niespodzianka
+---
+---
 
 # Część online
 
+---
+
+Zapraszamy na część online 19.04! [Zapisz się już teraz](https://www.eventbrite.com/e/global-azure-2024-poland-on-line-tickets-843540521407)!
+
 ## Nasi prelegenci
 
-Poznaj naszych prelegentów!
+<!-- Poznaj naszych prelegentów! -->
+Już niedługo poznasz naszych prelegentów! Bądź czujny, bo już wkrótce ogłosimy pierwsze nazwiska!
 
 {{< sessionize_speakers_wall >}}
 
-Więcej informacji znajdziesz w zakładce [Prelegenci]({{< ref "/speakers" >}}).
+<!-- Więcej informacji znajdziesz w zakładce [Prelegenci]({{< ref "/speakers" >}}). -->
+
+---
 
 ## Prezentacje
 
-Na stronie [Sesje]({{< ref "/speeches" >}}) znajdziesz więcej informacji o sesjach, które zostały przygotowane przez naszych wspaniałych prelegentów!
+Na stronie [Sesje]({{< ref "/speeches" >}}) już wkrótce znajdziesz więcej informacji o sesjach, które zostały przygotowane przez naszych wspaniałych prelegentów!
+
+---
 
 ## Rozkład jazdy
 
-Wstępna agenda
-
 > Rozkład agendy może ulec zmianie! Po zapisaniu się na wydarzenie dostaniesz powiadomienie, kiedy ostateczna agenda będzie potwierdzona!
 
-Na stronie [Agenda]({{< ref "/agenda" >}}) znajdziesz więcej informacji o dokładnym rozkładzie jazdy na nasze wydarzenie!
+Na stronie [Agenda]({{< ref "/agenda" >}}) już wkrótce znajdziesz więcej informacji o dokładnym rozkładzie jazdy na nasze wydarzenie!
+
+---
+
+## Chcesz zgłosić swoją sesję?
+
+Zapraszamy do zgłaszania swoich sesji! Wypełnij [formularz na stronie](https://sessionize.com/global-azure-2024-poland-on-line/) i dołącz do naszego grona prelegentów!
+
+---
+---
 
 # Część onsite
 
-W ramach części onsite przejdziemy przez wprowadzenie do Bicep - od tworzenia podstawowych szablonów, poprzez budowanie większych infrastrucktur, automatyzacje i pipeline CI/CD, modularyzację oraz kilka smaczków ułatwiających pracę.
+W 8 miastach w Polsce organizujemy warsztaty. Więcej informacji znajdziesz poniżej!
 
-> Liczba miejsc jest ograniczona. **Dlatego gorąca prośba - jeśli wiesz, że nie dasz rady wziąć udziału w warsztatach - daj znać! Niech ktoś inny skorzysta! Dokładna lokalizacja będzie podana w ciągu najbliszych kilku dni (centrum Warszawy).**
+{{< miasta_zapisy >}}
 
-# Pomagamy!
-
-Chcemy przy okazji dobrej zabawy robić coś dobrego. Dlatego też w czasie trawania naszych polskich edycji Global Azure będziemy zachęcać do dołączenia do zbiórki na operacje i rehabilitację dla synka naszego kolegi [Grzegorza](https://www.linkedin.com/in/gkieszkowski/) - pomóżmy razem Remkowi! [https://www.siepomaga.pl/remek-kieszkowski](https://www.siepomaga.pl/remek-kieszkowski)
-
-# Rejestracja
-
-Dołącz do nas warszawskiej edycji Global Azure!
-
-{{< evenea_registration >}}
-
-# Partnerzy
-
-Wydarzenie nie odbyłoby się bez pomocy partnerów! W tym roku towarzyszą nam:
-
-- [Wydział Elektryczny Politechniki Warszawskiej](https://www.ee.pw.edu.pl/)
-
-> Od wielu lat kształcimy magistrów inżynierów i inżynierów elektryków, automatyków i informatyków, fachowców cenionych w kraju i za granicą. Liczne kontakty z uczelniami zagranicznymi oraz nowoczesne programy nauczania gwarantują, że wybierając studia na naszym Wydziale będziesz poszukiwanym na rynku pracy specjalistą. Wydział współpracuje z wieloma przedsiębiorstwami w kraju i zagranicą. Wielu studentów podejmuje pracę już na ostatnich latach studiów zwiększając swoje szanse na rynku pracy.
-
-- [Nordcloud](https://nordcloud.com/)
-
-> Nordcloud is a European leader in cloud implementation, application development, managed services and training. We’re triple certified and featured in Gartner’s Magic Quadrant.
-
-{{< paige/image alt="Landscape" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="42rem" loading="eager" process="webp" src="/images/GlobalAzure2023WarsawSocialBannerBackground.png" width="100%" >}}
+---
 
 # Kontakt
 
-Potrzebujesz więcej informacji? Pisz na [piotr@wachulec.me](mailto:piotr@wachulec.me) albo na [LinkedIn](https://www.linkedin.com/in/piotrwachulec/)!
+Potrzebujesz więcej informacji? Chcesz pomóc w organizacji? A może Twoja firma chce zasponsorować to wydarzenie? Pisz do nas!
+
+- Piotr Wachulec - [piotr@wachulec.me](mailto:piotr@wachulec.me) i [LinkedIn](https://www.linkedin.com/in/piotrwachulec/)
+- Piotr Rogala - [LinkedIn](https://www.linkedin.com/in/rogalapiotr/)
+
+---
 
 # Do zobaczenia!
 
