@@ -30,4 +30,4 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: PiotrWachulec/GlobalAzurePoland2024
           publish_dir: ./public
-          publish_branch: master
+          publish_branch: main
