@@ -13,7 +13,7 @@ title = 'Global Azure Warsaw'
 
 [[languages.en.menu.main]]
     identifier = "home"
-    name = "Global Azure 2023 Warsaw Edition"
+    name = "Global Azure Poland 2024"
     url = "/"
     weight = 10
 
@@ -34,3 +34,10 @@ title = 'Global Azure Warsaw'
     name = "Agenda"
     url = "/agenda"
     weight = 40
+
+[[languages.en.menu.main]]
+    identifier = "cfp"
+    name = "CFP"
+    url = "https://sessionize.com/global-azure-2024-poland-on-line/"
+    weight = 50
+
