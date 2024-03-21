@@ -1,4 +1,4 @@
-module github.com/PiotrWachulec/GlobalAzureWarsaw
+module github.com/PiotrWachulec/GlobalAzurePoland2024
 
 go 1.19
 
