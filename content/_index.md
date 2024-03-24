@@ -1,5 +1,5 @@
 ---
-title: "TEST Global Azure 2024 Poland"
+title: "Global Azure 2024 Poland"
 date: 2023-04-24T09:42:29+02:00
 draft: false
 ---
