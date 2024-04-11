@@ -52,7 +52,7 @@ Zapraszamy do zgłaszania swoich sesji! Wypełnij [formularz na stronie](https:/
 
 # Część onsite
 
-W 8 miastach w Polsce organizujemy warsztaty. Więcej informacji znajdziesz poniżej!
+W kilku miastach w Polsce organizujemy warsztaty. Więcej informacji znajdziesz poniżej!
 
 {{< miasta_zapisy >}}
 
