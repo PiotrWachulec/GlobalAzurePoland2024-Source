@@ -4,7 +4,7 @@ date: 2023-04-24T09:42:29+02:00
 draft: false
 ---
 
-<!-- {{< paige/image alt="Landscape" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="45rem" loading="eager" process="webp" src="/images/GlobalAzure2023WarsawWhiteEvenea.png" width="100%" >}} -->
+{{< paige/image alt="Landscape" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="45rem" loading="eager" process="webp" src="/images/GlobalAzure2024-TeamsBackground.png" width="100%" >}}
 <!-- {{< paige/image alt="Landscape" class="object-fit-cover rounded-4 shadow" fetchpriority="high" height="45rem" loading="eager" process="webp" src="/images/GlobalAzurePolandOnline-500x500.png" style="margin-left: auto;margin-right: auto;" >}} -->
 
 W ramach tegorocznej edycji Global Azure 2024 Poland, przygotowaliśmy dla Was trzy dni pełne wiedzy, doświadczeń i inspiracji. W dniach 18-20 kwietnia 2024 roku zapraszamy na wydarzenie, które odbędzie się w formie hybrydowej - online i onsite w kilku miastach w Polsce.
