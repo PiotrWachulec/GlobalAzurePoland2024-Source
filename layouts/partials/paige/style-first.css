@@ -41,9 +41,3 @@
         }
     }
 }
-
-table { 
-    max-width:100vw;
-    overflow-y:scroll;
-    display: block;
-}
