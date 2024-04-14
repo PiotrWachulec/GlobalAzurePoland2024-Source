@@ -4,6 +4,6 @@ date: 2023-04-27T12:24:04+02:00
 draft: false
 ---
 
-Już wkrótce poznasz naszych prelegentów!
+Lista prelegentów, która zaszczyci nas swoją obecnością podczas Global Azure 2024.
 
 {{< sessionize_speakers >}}
