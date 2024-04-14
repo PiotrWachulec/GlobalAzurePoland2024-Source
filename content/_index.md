@@ -7,8 +7,7 @@ draft: false
 {{< paige/image alt="Landscape" class="rounded-4 shadow" fetchpriority="high" loading="eager" process="webp" src="/images/GlobalAzure2024-TeamsBackground.png" width="100%" >}}
 
 
-**W ramach tegorocznej edycji Global Azure 2024 Poland, przygotowaliśmy dla Was trzy dni pełne wiedzy, doświadczeń i inspiracji. W dniach 18-20 kwietnia 2024 roku zapraszamy na wydarzenie, które odbędzie się w formie hybrydowej - online i onsite w kilku miastach w Polsce.
-**
+W ramach tegorocznej edycji Global Azure 2024 Poland, przygotowaliśmy dla Was trzy dni pełne wiedzy, doświadczeń i inspiracji. W dniach 18-20 kwietnia 2024 roku zapraszamy na wydarzenie, które odbędzie się w formie hybrydowej - online i onsite w kilku miastach w Polsce.
 
 ---
 
