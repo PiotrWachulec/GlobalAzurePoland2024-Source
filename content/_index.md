@@ -73,7 +73,7 @@ Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więc
 
 
 
-![JustCloud.pl](https://web.justcloud.pl/assets/images/justcloud-logo-high-kwadrat-1256x1256.png {height=300px})
+![JustCloud.pl](https://web.justcloud.pl/assets/images/justcloud-logo-high-kwadrat-1256x1256.png){height=300px}
 ![wgdotnet](https://github.com/wgdotnet/public/blob/432eea08d85d82b73e25967dfd6785e327b3f549/img/png/logo_white-date_horizontal.png?raw=true)
 
 # Organizatorzy
