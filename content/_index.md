@@ -9,7 +9,6 @@ draft: false
 W ramach tegorocznej edycji Global Azure 2024 Poland, przygotowaliśmy dla Was trzy dni pełne wiedzy, doświadczeń i inspiracji. W dniach 18-20 kwietnia 2024 roku zapraszamy na wydarzenie, które odbędzie się w formie hybrydowej - online i onsite w kilku miastach w Polsce.
 
 ---
----
 
 # Część online
 
@@ -38,15 +37,14 @@ Na stronie [Sesje]({{< ref "/speeches" >}}) już wkrótce znajdziesz więcej inf
 
 > Rozkład agendy może ulec zmianie! Po zapisaniu się na wydarzenie dostaniesz powiadomienie, kiedy ostateczna agenda będzie potwierdzona!
 
-Na stronie [Agenda]({{< ref "/agenda" >}}) już wkrótce znajdziesz więcej informacji o dokładnym rozkładzie jazdy na nasze wydarzenie!
+Przejdź do [Agenda]({{< ref "/agenda" >}}), a tam znajdziesz pełny spis sesji.
 
 ---
 
 ## Chcesz zgłosić swoją sesję?
 
-Zapraszamy do zgłaszania swoich sesji! Wypełnij [formularz na stronie](https://sessionize.com/global-azure-2024-poland-on-line/) i dołącz do naszego grona prelegentów!
+CFP zostało już zamknięte.
 
----
 ---
 
 # Część onsite
@@ -69,3 +67,20 @@ Potrzebujesz więcej informacji? Chcesz pomóc w organizacji? A może Twoja firm
 # Do zobaczenia!
 
 Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więcej, tym lepsze wydarzenie!
+
+# Partnerzy
+
+# Organizatorzy
+
+1. Piotr Rogala [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/55988764-f35a-e711-8114-3863bb2ed1f8)
+2. Michał Jankowski [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/6248e2ee-63ab-e811-814b-3863bb353d80)
+3. Piotr Wachulec [C#/.NET Core & Azure Dev/Arch & Architecture Passionate](https://github.com/PiotrWachulec)
+4. Maciej Skuratowski [LinkedIn](https://www.linkedin.com/in/maciejskuratowski/)
+5. Marcin Iwanowski [LinkedIn](https://www.linkedin.com/in/marcin-iwanowski-68877512/)
+6. Paweł Siwek [LinkedIn](https://www.linkedin.com/in/pawelsiwek/)
+7. Michał Machniak [Web & Blog](https://mmachniak.net/about)
+8. Bartosz Różalski [LinkedIn](https://www.linkedin.com/in/bartosz-r%C3%B3%C5%BCa%C5%84ski/)
+9. Maciej Misztal [Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/ea7177b5-5c01-eb11-a815-000d3a8dfe0d)
+10. Dominik Skowron [Student Ambassadors](https://mvp.microsoft.com/en-US/studentambassadors/profile/70af883b-19d8-4593-8a06-69a349e4e613)
+11. Andrzej Kokocińsi [MVP Security](https://mvp.microsoft.com/en-US/MVP/profile/142e6181-95fb-ed11-8f6d-000d3a560942)
+12. Sławomir Stanek [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/MVP/profile/929f86a7-3059-4408-8443-6a700ad7b27a)
