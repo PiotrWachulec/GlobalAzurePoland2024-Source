@@ -21,7 +21,7 @@
 
 #paige-title { font-size: min(12vw, 4rem) }
 
-@media (prefers-color-scheme: dark) {
+@media (data-bs-theme: dark) {
     #sessionize {
         a:hover {
             color: gray !important;
@@ -40,4 +40,8 @@
             fill: white !important;
         }
     }
+}
+
+:root {
+    color-scheme: dark;
 }
