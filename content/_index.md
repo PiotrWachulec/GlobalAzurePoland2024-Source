@@ -71,8 +71,8 @@ Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więc
 
 # Partnerzy
 
-{{< paige/image src="/partners/JustCloud - Logo WHITE.png" alt="JustCloud.pl" class="partner-logo" >}}
-{{< paige/image src="nordcloud-white-horizontal.webp" alt="Nordcloud" class="partner-logo" >}}
+{{< paige/image src="/images/JustCloud - Logo WHITE.png" alt="JustCloud.pl" class="partner-logo" >}}
+{{< paige/image src="/images/nordcloud-white-horizontal.webp" alt="Nordcloud" class="partner-logo" >}}
 {{< paige/image src="https://github.com/wgdotnet/public/blob/432eea08d85d82b73e25967dfd6785e327b3f549/img/png/logo_white-date_horizontal.png?raw=true" alt="wgdotnet" class="partner-logo" >}}
 
 # Organizatorzy
