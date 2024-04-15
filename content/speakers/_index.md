@@ -1,6 +1,6 @@
 ---
 title: "Prelegenci"
-date: 2023-04-27T12:24:04+02:00
+date: 2024-04-15T10:00:00+02:00
 draft: false
 ---
 {{< paige/figure >}}

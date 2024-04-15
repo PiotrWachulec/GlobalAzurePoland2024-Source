@@ -1,12 +1,12 @@
 ---
 title: "Global Azure 2024 Poland"
-date: 2023-04-24T09:42:29+02:00
+date: 2024-04-15T10:00:00+02:00
 draft: false
 ---
 
 {{< paige/image alt="Landscape" class="rounded-4 shadow" fetchpriority="high" loading="eager" process="webp" src="/images/GlobalAzure2024-TeamsBackground.png" width="100%" >}}
 
-
+</br>
 W ramach tegorocznej edycji Global Azure 2024 Poland, przygotowaliśmy dla Was trzy dni pełne wiedzy, doświadczeń i inspiracji. W dniach 18-20 kwietnia 2024 roku zapraszamy na wydarzenie, które odbędzie się w formie hybrydowej - online i onsite w kilku miastach w Polsce.
 
 ---
@@ -75,6 +75,15 @@ Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więc
 
 </br>{{< paige/image src="https://github.com/wgdotnet/public/blob/432eea08d85d82b73e25967dfd6785e327b3f549/img/png/logo_white-date_horizontal.png?raw=true" maxwidth="100%" width="600px" alt="wgdotnet" class="left" >}}
 # Organizatorzy
+
+<div id="partners">
+  <div class="logo-image">
+    <img src="https://web.justcloud.pl/assets/images/justcloud-logo-high-kwadrat-1256x1256.png" alt="Placeholder Image" />
+  </div>
+  <div class="logo-image">
+    <img src="https://github.com/wgdotnet/public/blob/432eea08d85d82b73e25967dfd6785e327b3f549/img/png/logo_white-date_horizontal.png?raw=true" alt="Placeholder Image" />
+  </div>
+</div>
 
 * Piotr Rogala [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/55988764-f35a-e711-8114-3863bb2ed1f8)
 * Michał Jankowski [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/6248e2ee-63ab-e811-814b-3863bb353d80)

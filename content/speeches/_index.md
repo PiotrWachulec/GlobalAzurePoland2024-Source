@@ -1,11 +1,11 @@
 ---
 title: "Prezentacje"
-date: 2023-04-27T10:18:23+02:00
+date: 2024-04-15T10:00:00+02:00
 draft: false
 ---
 
 {{< paige/figure >}}
-Już wkrótce udostepnimy listę sesji!
+Poniżej przedstawiamy listę wszystkich sesji emitowanych podczas Global Azure 2024.
 {{< /paige/figure >}}
 
 {{< sessionize_sessions >}}
