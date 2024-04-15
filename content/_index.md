@@ -71,8 +71,9 @@ Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więc
 
 # Partnerzy
 
-{{< figure src="https://web.justcloud.pl/assets/images/justcloud-logo-high-kwadrat-1256x1256.png" width="300" alt="JustCloud.pl" class="left" >}}{{< figure src="https://github.com/wgdotnet/public/blob/432eea08d85d82b73e25967dfd6785e327b3f549/img/png/logo_white-date_horizontal.png?raw=true" width="600" alt="wgdotnet" class="left" >}}
+{{< paige/image src="https://web.justcloud.pl/assets/images/justcloud-logo-high-kwadrat-1256x1256.png" maxwidth="100%" width="300px" alt="JustCloud.pl" class="left" >}}
 
+</br>{{< paige/image src="https://github.com/wgdotnet/public/blob/432eea08d85d82b73e25967dfd6785e327b3f549/img/png/logo_white-date_horizontal.png?raw=true" maxwidth="100%" width="600px" alt="wgdotnet" class="left" >}}
 # Organizatorzy
 
 * Piotr Rogala [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/mvp/profile/55988764-f35a-e711-8114-3863bb2ed1f8)
