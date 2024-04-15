@@ -97,21 +97,8 @@
     }
 }
 
-
-#partners {
-    height: 105px;
-    background-color: #eee;
-    white-space: nowrap;
-    width: 100%;
-    display: table;
-}
-
-.logo-image {
-    vertical-align: middle;
-    padding: 13px;
-    display: table-cell;
-}
-
-.logo-image img {
-    max-width: 100%;
+.partner-logo {
+    display: inline-block;
+    height: 250px;
+    width: auto;
 }
