@@ -6,7 +6,9 @@ draft: false
 
 {{< paige/image alt="Landscape" class="rounded-4 shadow" fetchpriority="high" loading="eager" process="webp" src="/images/GlobalAzure2024-TeamsBackground.png" width="100%" >}}
 
-<br></br>
+
+---
+
 W ramach tegorocznej edycji Global Azure 2024 Poland, przygotowaliśmy dla Was trzy dni pełne wiedzy, doświadczeń i inspiracji. W dniach 18-20 kwietnia 2024 roku zapraszamy na wydarzenie, które odbędzie się w formie hybrydowej - online i onsite w kilku miastach w Polsce.
 
 ---
@@ -69,12 +71,16 @@ Potrzebujesz więcej informacji? Chcesz pomóc w organizacji? A może Twoja firm
 
 Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więcej, tym lepsze wydarzenie!
 
+---
+
 # Partnerzy
 
 {{< paige/image src="/images/JustCloud - Logo WHITE.png" alt="JustCloud.pl" class="partner-logo" >}}
 {{< paige/image src="/images/nordcloud-white-horizontal.webp" alt="Nordcloud" class="partner-logo" >}}
 {{< paige/image src="/images/logo_wgdotnet.png" alt="wgdotnet" class="partner-logo" >}}
 {{< paige/image src="/images/jankowskimichalpl.png" alt="jankowskimichal.pl" class="partner-logo" >}}
+
+---
 
 # Organizatorzy
 
