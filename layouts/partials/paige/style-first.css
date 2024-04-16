@@ -99,8 +99,9 @@
 
 .partner-logo {
     display: inline-block;
-    height: 80px;
+    max-height: 80px;
     width: auto;
+    max-width: 100%;
     padding-right: 30px;
     margin-bottom: 15px;
     filter: grayscale(100%) brightness(100);
