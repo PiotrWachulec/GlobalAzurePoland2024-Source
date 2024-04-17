@@ -79,6 +79,7 @@ Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więc
 {{< paige/image src="/images/nordcloud-white-horizontal.webp" alt="Nordcloud" class="partner-logo" >}}
 {{< paige/image src="/images/logo_wgdotnet.png" alt="wgdotnet" class="partner-logo" >}}
 {{< paige/image src="/images/jankowskimichalpl.png" alt="jankowskimichal.pl" class="partner-logo" >}}
+{{< paige/image src="/images/logo-sii-svg.svg" alt="sii" class="partner-logo" >}}
 
 ---
 
