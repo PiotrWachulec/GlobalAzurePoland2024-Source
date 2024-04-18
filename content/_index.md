@@ -82,6 +82,7 @@ Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więc
 {{< paige/image src="/images/logo-sii-svg.svg" alt="sii" class="partner-logo" >}}
 {{< paige/image src="/images/1378675_431661023608877_194446406_n.png" alt="lodz" class="partner-logo" >}}
 {{< paige/image src="/images/cowolk.png" alt="cowolk" class="partner-logo" >}}
+{{< paige/image src="/images/7n.svg" alt="7n" class="partner-logo" >}}
 
 ---
 
