@@ -98,5 +98,5 @@ Do zobaczenia online/onsite! Daj znać swoim kolegom i koleżankom, im nas więc
 * Bartosz Różalski [LinkedIn](https://www.linkedin.com/in/bartosz-r%C3%B3%C5%BCa%C5%84ski/)
 * Maciej Misztal [MVP Developer Technologies](https://mvp.microsoft.com/en-US/MVP/profile/ea7177b5-5c01-eb11-a815-000d3a8dfe0d)
 * Dominik Skowron [Student Ambassadors](https://mvp.microsoft.com/en-US/studentambassadors/profile/70af883b-19d8-4593-8a06-69a349e4e613)
-* Andrzej Kokocińsi [MVP Security](https://mvp.microsoft.com/en-US/MVP/profile/142e6181-95fb-ed11-8f6d-000d3a560942)
+* Andrzej Kokociński [MVP Security](https://mvp.microsoft.com/en-US/MVP/profile/142e6181-95fb-ed11-8f6d-000d3a560942)
 * Sławomir Stanek [Microsoft Azure MVP](https://mvp.microsoft.com/en-US/MVP/profile/929f86a7-3059-4408-8443-6a700ad7b27a)
