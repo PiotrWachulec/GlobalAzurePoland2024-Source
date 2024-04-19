@@ -41,3 +41,8 @@ title = 'Global Azure Poland 2024'
     url = "https://sessionize.com/global-azure-2024-poland-on-line/"
     weight = 50
 
+[[languages.en.menu.main]]
+    identifier = "stream"
+    name = "Stream"
+    url = "/stream"
+    weight = 60
